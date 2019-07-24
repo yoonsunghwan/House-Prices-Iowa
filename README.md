@@ -3,4 +3,5 @@ Kaggle for housing prediction
 This is the description of the data:
 https://storage.googleapis.com/kaggle-competitions-data/kaggle/5407/205873/data_description.txt?GoogleAccessId=web-data@kaggle-161607.iam.gserviceaccount.com&Expires=1564196824&Signature=MQk%2FUFdN1dHtfUi4kDxd%2BJtroTlJh4XiEX76ZIJ0iz4NV6RJaUlfd5%2FbMKtyRXpY3zWmXYi%2BSalCN9c1hUed14wRx5a5RlSGGfQ2aI4jn1Fhx8M4lDmEKq%2FcUmRLnVbs0LcnoLJlIxRPfmXS4RztLzdt8zzAPCkU%2F21wcIm3yeN8HNEVcu21GNIUwE%2FzR%2BxNFpcw%2BSLF23bKmZkJJYhIe3NL%2FtIlzT7RI%2Fc4CQnF80PCKI5Fhl9iIeWpz8ZChsVkJZe7G8rRHNMct0Im1w6nqaytypiKEO3k01rUOpfsSOj2SaKKE%2BQX%2Fw0Jsm0h2xVPHqAbrtMihHXHIou22KJXaA%3D%3D
 
-The Final_Notebook is the submission used for the kaggle project
+The House Prediction is the submission used for the kaggle project
+Prediction2 files is the data with submission
